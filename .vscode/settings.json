@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "iosfwd": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp"
+    },
+    "cSpell.language": "en",
+    "code-runner.runInTerminal": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": false,
+    "python.formatting.provider": "autopep8",
+    "git.ignoreLimitWarning": true,
+    "C_Cpp.errorSquiggles": "Disabled",
+}
